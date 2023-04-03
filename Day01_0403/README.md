@@ -1,10 +1,10 @@
-# 1일차 
+# 🌻 1일차 
 📅 2023.04.03.월 06:00 ~ 2023.04.04.화 06:00  
   
 🎞️ 오늘의 강의: [Dart 시작하기: From #0.0 to #1.7](https://nomadcoders.co/dart-for-beginners/lectures/4090)  
 ✍️ 오늘의 과제: 강의 수강 후, 퀴즈 풀기  
   
-### 오늘의 퀴즈
+### ✅ 오늘의 퀴즈: 19/20
 1) Dart is a functional programming language. **False**  
 : Dart는 객체 지향 언어이다. 그러나 객체 지향 프로그래밍과 함수형 프로그래밍의 특징을 모두 제공한다.  
 2) Dart can be compiled into ARM64 and JavaScript. **True**  
@@ -38,7 +38,7 @@
 15) Variables created with 'var' can be overriden. **True**  
 16) Variables created with 'final' can be overriden. **False**  
 17) 'late' allows us to create variables that will be assigned later. **True**  
-18) 'const' in Dart is the same as ''const in Typescript. **True** -> **False**  
+18) 'const' in Dart is the same as ''const in Typescript. **True -> False**  
 19) 'const' is the same as 'final'. **False**  
 20) When do we use 'const' over 'final'?  
   (1) When the value is not known ahead of compilation  
