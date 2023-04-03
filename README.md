@@ -2,7 +2,7 @@
 📅 2023.04.03.월 06:00 ~ 2023.04.17.월 06:00  
 🏢 [Nomad Coder Flutter 2주 완성 Challenge](https://nomadcoders.co/c/flutter-challenge/lobby)  
   
-### 일자별 과제
+### 🔥 Misson
 **1일차**  
 ➡️ [2023.04.03.월](https://github.com/jung0115/flutter-challenge/tree/main/Day01_0403)  
 🎞️ 오늘의 강의: [Dart 시작하기: From #0.0 to #1.7](https://nomadcoders.co/dart-for-beginners/lectures/4090)  
