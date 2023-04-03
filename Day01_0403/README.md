@@ -38,9 +38,13 @@
 15) Variables created with 'var' can be overriden. **True**  
 16) Variables created with 'final' can be overriden. **False**  
 17) 'late' allows us to create variables that will be assigned later. **True**  
-18) 'const' in Dart is the same as ''const in Typescript. **True -> False**  
+18) 'const' in Dart is the same as 'const' in Typescript. **True -> False**  
 19) 'const' is the same as 'final'. **False**  
 20) When do we use 'const' over 'final'?  
   (1) When the value is not known ahead of compilation  
   (2) When the value is known ahead of compilation  
 **2번**  
+  
+### 🧐 틀린 문제
+18) 'const' in Dart is the same as 'const' in Typescript. **True -> False**  
+: Dart의 const는 Typescipt의 const와 다르고, final이 Typescript, Javascript와 같음.  
