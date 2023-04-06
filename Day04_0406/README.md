@@ -17,7 +17,6 @@
     Transmition transmition;  
     Car(this.transmition);  
   }  
-  
   void main(){  
     var car = Car("auto");  
   }  
