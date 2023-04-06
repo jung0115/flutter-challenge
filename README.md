@@ -20,3 +20,9 @@
 🎞️ 오늘의 강의: [Dart 시작하기: From #3.0 to #3.5](https://nomadcoders.co/dart-for-beginners/lectures/4107)  
 ✍️ 오늘의 과제: 강의 수강 후, 퀴즈 풀기  
 ✅ 퀴즈 점수: 12/12  
+  
+[**4일차**](https://github.com/jung0115/flutter-challenge/tree/main/Day04_0406)  
+➡️ 2023.04.06.목  
+🎞️ 오늘의 강의: [Dart 시작하기: From #4.0 to #4.10](https://nomadcoders.co/dart-for-beginners/lectures/4113)  
+✍️ 오늘의 과제: 강의 수강 후, 퀴즈 풀기  
+✅ 퀴즈 점수: 8/9  
