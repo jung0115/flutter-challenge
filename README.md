@@ -32,3 +32,9 @@
 🎞️ 오늘의 강의: 복습  
 ✍️ 오늘의 과제: 코드 챌린지 제출  
 ✅ [**제출 코드**](https://replit.com/@jungim7490/FlutterChallengeDart#main.dart)  
+  
+[**6일차**](https://github.com/jung0115/flutter-challenge/tree/main/Day06_0410)  
+➡️ 2023.04.10.월  
+🎞️ 오늘의 강의: [Flutter 로 웹툰 앱 만들기: From #0.0 to #2.5](https://nomadcoders.co/flutter-for-beginners/lectures/4178)  
+✍️ 오늘의 과제: 강의 수강 후, 퀴즈 풀기  
+✅ 퀴즈 점수: /15  
