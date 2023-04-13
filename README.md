@@ -50,3 +50,9 @@
 🎞️ 오늘의 강의: [Flutter 로 웹툰 앱 만들기: From #4.0 to #4.4](https://nomadcoders.co/flutter-for-beginners/lectures/4149)  
 ✍️ 오늘의 과제: 강의 수강 후, 퀴즈 풀기  
 ✅ 퀴즈 점수: 11/11  
+  
+[**9일차**](https://github.com/jung0115/flutter-challenge/tree/main/Day09_0413)  
+➡️ 2023.04.13.목  
+🎞️ 오늘의 강의: [Flutter 로 웹툰 앱 만들기: From #5.0 to #5.4](https://nomadcoders.co/flutter-for-beginners/lectures/4154)  
+✍️ 오늘의 과제: 강의 수강 후, 코드 챌린지 제출  
+✅ [**제출 코드**](https://gist.github.com/jung0115/96f79666fa6505f3f72c387044baae64)  
