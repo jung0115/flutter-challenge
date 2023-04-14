@@ -57,7 +57,7 @@
 ✍️ 오늘의 과제: 강의 수강 후, 코드 챌린지 제출  
 ✅ [**제출 코드**](https://gist.github.com/jung0115/96f79666fa6505f3f72c387044baae64)  
   
-[**10일차**](https://github.com/jung0115/flutter-challenge/tree/main/Day10_0415)  
+[**10일차**](https://github.com/jung0115/flutter-challenge/tree/main/Day10_0414)  
 ➡️ 2023.04.14.금  
 🎞️ 오늘의 강의: [Flutter 로 웹툰 앱 만들기: From #6.0 to #6.18](https://nomadcoders.co/flutter-for-beginners/lectures/4159)  
 ✍️ 오늘의 과제: 강의 수강 후, 코드 챌린지 제출  
