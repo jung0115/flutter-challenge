@@ -36,3 +36,7 @@
 - 극장에서 상영 중인 영화를 보려면 이 엔드포인트를 방문하세요: [https://movies-api.nomadcoders.workers.dev/now-playing](https://movies-api.nomadcoders.workers.dev/now-playing)  
 - 곧 개봉하는 영화를 보려면 이 엔드포인트를 방문하세요: [https://movies-api.nomadcoders.workers.dev/coming-soon](https://movies-api.nomadcoders.workers.dev/coming-soon)  
 - 영화에 대한 세부 정보를 보려면 이 엔드포인트를 방문하세요: [https://movies-api.nomadcoders.workers.dev/movie?id=1](https://movies-api.nomadcoders.workers.dev/movie?id=1) (아이디를 세부 정보를 보려는 영화의 아이디로 바꾸세요).  
+  
+**Notes.**  
+- 영화 데이터베이스에서 이미지를 표시할 때는 https://image.tmdb.org/t/p/w500/ + 이미지 경로와 같은 URL을 사용해야 합니다. 
+- 예를 들어 이미지 경로가 "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"인 경우 전체 URL은 https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg 입니다.  
