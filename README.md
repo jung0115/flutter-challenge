@@ -1,7 +1,10 @@
 # 👩🏻‍💻 플러터 챌린지 in Nomad Coders
 📅 2023.04.03.월 06:00 ~ 2023.04.17.월 06:00  
 🏢 [Nomad Coders Flutter 2주 완성 Challenge](https://nomadcoders.co/c/flutter-challenge/lobby)  
-  
+<br/>  
+### 🎖️ 챌린지 수료증
+![image](https://user-images.githubusercontent.com/76805879/233994058-c4a1b51c-efa1-4d47-b19b-b9a42e273e43.png)  
+<br/>  
 ## 🔥 Misson
 [**1일차**](https://github.com/jung0115/flutter-challenge/tree/main/Day01_0403)  
 ➡️ 2023.04.03.월  
