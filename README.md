@@ -1,8 +1,14 @@
 # 👩🏻‍💻 플러터 챌린지 in Nomad Coders
 📅 2023.04.03.월 06:00 ~ 2023.04.17.월 06:00  
 🏢 [Nomad Coders Flutter 2주 완성 Challenge](https://nomadcoders.co/c/flutter-challenge/lobby)  
-<br/>  
-### 🎖️ 챌린지 수료증
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung0115%2Fflutter-challenge&count_bg=%23318ABE&title_bg=%23808080&icon=flutter.svg&icon_color=%2300B1FF&title=flutter+challenge&edge_flat=false)](https://hits.seeyoufarm.com)  
+  
+</div>
+
+## 🎖️ 챌린지 수료증
 ![image](https://user-images.githubusercontent.com/76805879/233994058-c4a1b51c-efa1-4d47-b19b-b9a42e273e43.png)  
 <br/>  
 ## 🔥 Misson
