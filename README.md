@@ -9,7 +9,7 @@
 </div>
 
 ## 🎖️ 챌린지 수료증
-![image](https://user-images.githubusercontent.com/76805879/233994058-c4a1b51c-efa1-4d47-b19b-b9a42e273e43.png)  
+![image](https://github.com/jung0115/flutter-challenge/assets/76805879/1fb13cd8-c9d3-4574-8f51-09f2516f362d)  
 <br/>  
 ## 🔥 Misson
 [**1일차**](https://github.com/jung0115/flutter-challenge/tree/main/Day01_0403)  
